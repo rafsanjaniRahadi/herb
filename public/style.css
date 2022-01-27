@@ -1,0 +1,350 @@
+.about-us {
+  background-color: var(--white);
+  height: 1775px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.about-us .about-us-1 {
+  left: 674px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 720px;
+}
+
+.about-us .author {
+  left: 686px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1052px;
+}
+
+.about-us .herb-website-merupak {
+  left: 142px;
+  letter-spacing: 0;
+  line-height: 47.6px;
+  position: absolute;
+  top: 786px;
+  width: 1147px;
+}
+
+.about-us .overlap-group2 {
+  background-image: url(image-11.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 425px;
+  left: 142px;
+  position: absolute;
+  top: 232px;
+  width: 1155px;
+}
+
+.about-us .logo-2-1 {
+  height: 183px;
+  left: 517px;
+  object-fit: cover;
+  position: absolute;
+  top: 78px;
+  width: 122px;
+}
+
+.about-us .title {
+  left: 515px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 280px;
+  width: 126px;
+}
+
+.about-us .rectangle-38 {
+  background-color: var(--alto);
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 2534px;
+  width: 1440px;
+}
+
+.about-us .rectangle-62 {
+  background-color: var(--alto);
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 1445px;
+  width: 1440px;
+}
+
+.about-us .overlap-group1 {
+  height: 310px;
+  left: 0;
+  position: absolute;
+  top: 1469px;
+  width: 1440px;
+}
+
+.about-us .divider {
+  background-color: var(--mercury);
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.about-us .herb {
+  left: 244px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 51px;
+}
+
+.about-us .name {
+  left: 244px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 98px;
+}
+
+.about-us .copyright-2021-all {
+  left: 558px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 236px;
+}
+
+.about-us .group-5 {
+  height: 88px;
+  left: 854px;
+  position: absolute;
+  top: 95px;
+  width: 348px;
+}
+
+.about-us .herbsgmailcom {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-us .phone {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 32px;
+}
+
+.about-us .herb-sleman-daerah {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 64px;
+}
+
+.about-us .group-6 {
+  height: 88px;
+  left: 521px;
+  position: absolute;
+  top: 95px;
+  width: 160px;
+}
+
+.about-us .our-careers {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+}
+
+.about-us .privacy {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 32px;
+}
+
+.about-us .terms-conditions {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 64px;
+}
+
+.about-us .bg {
+  height: 310px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.about-us .connect-us {
+  left: 855px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 48px;
+  width: 137px;
+}
+
+.about-us .explore-us {
+  left: 522px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 48px;
+  width: 137px;
+}
+
+.about-us .rafa {
+  left: 184px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1306px;
+}
+
+.about-us .toriq {
+  left: 434px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1306px;
+}
+
+.about-us .izzul {
+  left: 692px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1306px;
+}
+
+.about-us .syarif {
+  left: 936px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1306px;
+}
+
+.about-us .apnan {
+  left: 1182px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1306px;
+}
+
+.about-us .overlap-group {
+  background-color: var(--white);
+  height: 80px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.about-us .herb-1 {
+  left: 1226px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 21px;
+}
+
+.about-us .for-creator {
+  cursor: pointer;
+  left: 327px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 27px;
+}
+
+.about-us .about-us-2 {
+  cursor: pointer;
+  left: 230px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 27px;
+}
+
+.about-us .place {
+  cursor: pointer;
+  left: 145px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: right;
+  top: 27px;
+}
+
+.about-us .about-us-3 {
+  left: 612px;
+  letter-spacing: 0;
+  line-height: 81.6px;
+  position: absolute;
+  top: 101px;
+  white-space: nowrap;
+  width: 215px;
+}
+
+.about-us .rectangle-75 {
+  height: 154px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 1135px;
+  width: 154px;
+}
+
+.about-us .rectangle-76 {
+  height: 154px;
+  left: 390px;
+  object-fit: cover;
+  position: absolute;
+  top: 1135px;
+  width: 154px;
+}
+
+.about-us .rectangle-77 {
+  height: 154px;
+  left: 643px;
+  object-fit: cover;
+  position: absolute;
+  top: 1135px;
+  width: 154px;
+}
+
+.about-us .rectangle-78 {
+  height: 154px;
+  left: 896px;
+  object-fit: cover;
+  position: absolute;
+  top: 1135px;
+  width: 154px;
+}
+
+.about-us .rectangle-79 {
+  height: 154px;
+  left: 1149px;
+  object-fit: cover;
+  position: absolute;
+  top: 1135px;
+  width: 154px;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,300,500,600");
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
